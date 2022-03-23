@@ -14,7 +14,7 @@ const Home = (props) => {
 	// 		descripcion:
 	// 			'Descripción de mi proyecto lorem ipsum de mi proyecto lorem ipsum Descripción de mi proyecto lorem ipsum Descripción de mi proyecto lorem ipsum Descripción de mi proyecto lorem ipsum',
 	// 		fecha: new Date().toISOString(),
-	// 		imgUrl: 'https://cdn.shopify.com/s/files/1/0229/0839/files/portafolio_web_inspiracion_wokine_grande.png?format=jpg&quality=90&v=1553472178',
+	// 		imgUrl: 'https://media.baamboozle.com/uploads/images/12415/1553141273_68781',
 	// 	},
 	// 	{
 	// 		id: 1,
@@ -30,7 +30,7 @@ const Home = (props) => {
 	// 		descripcion:
 	// 			'Descripción de mi proyecto lorem ipsum de mi proyecto lorem ipsum Descripción de mi proyecto lorem ipsum Descripción de mi proyecto lorem ipsum Descripción de mi proyecto lorem ipsum',
 	// 		fecha: new Date().toISOString(),
-	// 		imgUrl: 'https://cdn.shopify.com/s/files/1/0229/0839/files/portafolio_web_inspiracion_wokine_grande.png?format=jpg&quality=90&v=1553472178',
+	// 		imgUrl: 'https://www.robin-noorda.com/uploads/1/6/8/3/16830688/3347022_orig.jpg',
 	// 	},
 	// 	{
 	// 		id: 3,

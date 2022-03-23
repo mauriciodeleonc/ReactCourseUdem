@@ -81,7 +81,7 @@ const Project = (props) => {
 					}
 				</Col>
 				<Col md={6}>
-					<img src={state.imgUrl} alt='Drawing of people building a website' width='100%' />
+					<img className='project-img' src={state.imgUrl} alt='Drawing of people building a website' width='100%' />
 				</Col>
 			</Row>
 		</Container>
